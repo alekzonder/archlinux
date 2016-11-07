@@ -1,6 +1,6 @@
 # docker-archlinux
 
-https://hub.docker.com/r/alekzonder/docker-archlinux/
+https://hub.docker.com/r/alekzonder/archlinux/
 
 fresh archlinux every day
 
